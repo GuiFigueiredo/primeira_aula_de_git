@@ -1,0 +1,33 @@
+body{
+        background-color:white;
+		
+}
+h1{ 
+font-family: times new roman;
+    font-size: 40px;
+	font-style: strong;
+	text-align: center;
+		
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+p{ 
+ color: red;
+ font-family: verdana;
+ font-size: 15px;
+ text-align: justify;
+ margin-left: 200px;
+ margin-right: 200px;
+}
+#horario{ 
+text-align:left
+}
+header{
+font-family: verdana;
+font-style: strong;
+font-size: 45px;
+text-align: center
