@@ -27,7 +27,45 @@ p{
 text-align:left
 }
 header{
-font-family: verdana;
-font-style: strong;
+background-color: red;
+font-family: TIMES NEW ROMAN;
 font-size: 45px;
-text-align: center
+text-align: center;
+color: black;
+}
+#TELEFONE{
+text-align: left;
+font-family:times new roman;
+font-size:20px;
+color: black;
+
+}
+#ENDERECO{ 
+
+font-family:times new roman;
+font-style: strong;
+font-size:20px;
+padding:0px;
+color: black;
+text-align: center;
+
+
+}
+#NOME{
+text-align: center;
+font-style: strong;
+font-size:20px;
+padding:15px;
+color:black;
+
+
+
+}
+footer{
+background-color: gray;
+padding:40px;
+text-align: center;
+color: black;
+
+	}
+
